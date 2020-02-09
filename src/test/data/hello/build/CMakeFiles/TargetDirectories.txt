@@ -1,0 +1,8 @@
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/edit_cache.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/rebuild_cache.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/app/CMakeFiles/rebuild_cache.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/app/CMakeFiles/Application.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/app/CMakeFiles/edit_cache.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/lib/CMakeFiles/Hello.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/lib/CMakeFiles/edit_cache.dir
+C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/lib/CMakeFiles/rebuild_cache.dir

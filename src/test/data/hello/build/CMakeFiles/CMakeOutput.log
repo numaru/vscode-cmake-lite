@@ -1,0 +1,162 @@
+The target system is: Generic -  - arm
+The host system is: Windows - 10.0.18363 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/IAR Systems/Embedded Workbench 8.3/arm/bin/iccarm.exe 
+Build flags: --cpu=cortex-m3
+Id flags:  
+
+The output was:
+0
+
+   IAR ANSI C/C++ Compiler V8.40.1.212/W32 for ARM
+   Copyright 1999-2019 IAR Systems AB.
+   PC-locked license - IAR Embedded Workbench for Arm, 32K Kickstart Edition 8.40
+ 
+  76 bytes of CODE  memory
+ 176 bytes of CONST memory
+  16 bytes of DATA  memory
+
+Errors: none
+Warnings: none
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is IAR, found in "C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/3.16.2/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/IAR Systems/Embedded Workbench 8.3/arm/bin/iccarm.exe 
+Build flags: --cpu=cortex-m3
+Id flags: --c++ 
+
+The output was:
+0
+
+   IAR ANSI C/C++ Compiler V8.40.1.212/W32 for ARM
+   Copyright 1999-2019 IAR Systems AB.
+   PC-locked license - IAR Embedded Workbench for Arm, 32K Kickstart Edition 8.40
+ 
+  64 bytes of CODE  memory
+ 176 bytes of CONST memory
+  16 bytes of DATA  memory
+
+Errors: none
+Warnings: none
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is IAR, found in "C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/3.16.2/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_f05e7 && [1/2] Building C object CMakeFiles\cmTC_f05e7.dir\testCCompiler.c.obj
+
+[2/2] Linking C executable cmTC_f05e7.elf
+
+
+
+vscode-cmake-lite
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_571d2 && [1/2] Building C object CMakeFiles\cmTC_571d2.dir\CMakeCCompilerABI.c.obj
+
+[2/2] Linking C executable cmTC_571d2.elf
+
+
+
+vscode-cmake-lite
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_1f679 && [1/2] Building C object CMakeFiles\cmTC_1f679.dir\feature_tests.c.obj
+
+[2/2] Linking C executable cmTC_1f679.elf
+
+vscode-cmake-lite
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_b2acd && [1/2] Building C object CMakeFiles\cmTC_b2acd.dir\feature_tests.c.obj
+
+[2/2] Linking C executable cmTC_b2acd.elfvscode-cmake-lite
+
+
+
+
+
+
+Detecting C [--c89] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cmake-lite/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_c8c2f && [1/2] Building C object CMakeFiles\cmTC_c8c2f.dir\feature_tests.c.obj
+
+[2/2] Linking C executable cmTC_c8c2f.elf
+
+
+
+vscode-cmake-lite
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_c50ac && [1/2] Building CXX object CMakeFiles\cmTC_c50ac.dir\testCXXCompiler.cxx.obj
+
+[2/2] Linking CXX executable cmTC_c50ac.elf
+
+
+
+vscode-cmake-lite
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_9ee1a && [1/2] Building CXX object CMakeFiles\cmTC_9ee1a.dir\CMakeCXXCompilerABI.cpp.obj
+
+[2/2] Linking CXX executable cmTC_9ee1a.elf
+
+
+
+vscode-cmake-lite
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_e863f && [1/2] Building CXX object CMakeFiles\cmTC_e863f.dir\feature_tests.cxx.obj
+
+[2/2] Linking CXX executable cmTC_e863f.elf
+
+vscode-cmake-lite
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_ef470 && [1/2] Building CXX object CMakeFiles\cmTC_ef470.dir\feature_tests.cxx.obj
+
+[2/2] Linking CXX executable cmTC_ef470.elf
+
+
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/kin/Documents/Laboratory/github/win32/vscode-cpptools-cmake/src/test/data/hello/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/Ninja/ninja.exe cmTC_f4686 && [1/2] Building CXX object CMakeFiles\cmTC_f4686.dir\feature_tests.cxx.obj
+
+[2/2] Linking CXX executable cmTC_f4686.elf
+
+
+
+
